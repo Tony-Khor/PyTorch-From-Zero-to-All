@@ -6,8 +6,8 @@ Welcome to Season 2 of Deep Learning for All, Made by Everyone.
 
 You can start learning with slides and videos at the link below.
 
-* Slide: http://bit.ly/2VrZcWM
-* YouTube: http://bit.ly/2UVk3kn
+* PowerPoint Slide: https://pan.baidu.com/s/1b8-Y-WzHF1131LR8a2oH3w : Password: rfr2
+* Custom Data: https://pan.baidu.com/s/1s8OM9EIBOzO95MgQ1dHqJw : Password: g6f9
 
 ### Install Requirements
 
