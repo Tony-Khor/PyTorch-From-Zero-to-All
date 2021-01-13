@@ -83,3 +83,9 @@ We always welcome your comments and pull requests
 * Lesson-11_4_Timeseries.ipynb
 * Lesson-11_5_Seq2Seq.ipynb
 * Lesson-11_6_Packedsequence.ipynb
+
+### Summary
+
+* Pytorch Neural Programming 01.ipynb
+* Pytorch Neural Programming 02.ipynb
+* Pytorch Neural Programming 03.ipynb
