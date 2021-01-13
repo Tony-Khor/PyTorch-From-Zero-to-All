@@ -89,3 +89,4 @@ We always welcome your comments and pull requests
 * Pytorch Neural Programming 01.ipynb
 * Pytorch Neural Programming 02.ipynb
 * Pytorch Neural Programming 03.ipynb
+* CSDN Blog (Chinese Version): https://pan.baidu.com/s/1b8-Y-WzHF1131LR8a2oH3w
